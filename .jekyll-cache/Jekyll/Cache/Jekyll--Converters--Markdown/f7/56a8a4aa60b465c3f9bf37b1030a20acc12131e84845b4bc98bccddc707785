@@ -1,10 +1,10 @@
-I"ê<link rel="stylesheet" href="/assets/vendor/startbootstrap-clean-blog/scss/katex/katex.min.css" />
+I"°<link rel="stylesheet" href="/assets/vendor/startbootstrap-clean-blog/scss/katex/katex.min.css" />
 
 <script src="/assets/vendor/startbootstrap-clean-blog/js/katex/katex.min.js"></script>
 
-<!-- The Normal Distribution -->
 <div class="equation" data-expr="\displaystyle P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}}"></div>
-<p>\(\pi\)</p>
+
+<p>Hi, this is \(\pi\). Looking forward to awesome content!</p>
 
 <script type="text/javascript">
     var tex = document.getElementsByClassName("equation");

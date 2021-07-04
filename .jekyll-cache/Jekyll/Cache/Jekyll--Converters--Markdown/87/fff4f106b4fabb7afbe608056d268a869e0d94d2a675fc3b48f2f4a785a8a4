@@ -1,25 +1,13 @@
-I"5<link rel="stylesheet" href="/assets/vendor/startbootstrap-clean-blog/scss/katex/katex.min.css" />
+I"¥<link rel="stylesheet" href="/assets/vendor/startbootstrap-clean-blog/scss/katex/katex.min.css" />
 
 <script src="/assets/vendor/startbootstrap-clean-blog/js/katex/katex.min.js"></script>
 
-<!-- The Normal Distribution -->
+<p>
 <div class="equation" data-expr="\displaystyle P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}}"></div>
-<p>\(\pi\)</p>
 
-<script type="text/javascript">
-    $("script[type='math/tex']").replaceWith(
-      function(){
-        var tex = $(this).text();
-        return katex.renderToString(tex, {displayMode: false});
-    });
-    
-    $("script[type='math/tex; mode=display']").replaceWith(
-      function(){
-        var tex = $(this).text();
-        return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
-    });
-</script>
+Hi, this is $$ \pi $$. Looking forward to awesome content!
 
+</p>
 <script type="text/javascript">
     var tex = document.getElementsByClassName("equation");
     Array.prototype.forEach.call(tex, function(el) {
