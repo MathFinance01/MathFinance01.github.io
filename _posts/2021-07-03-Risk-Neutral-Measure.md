@@ -15,7 +15,7 @@ To get an intuition of risk neutral pricing we consider the one period binomial 
 
 By making the following manipulations, we can write $S_{0}$ as, 
 <div class="equation" data-expr="\displaystyle S_{0}=S_{0}\frac{(u-d)}{(u-d)}"></div>
-<div class="equation" data-expr="=S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}"></div>
+<div class="equation" data-expr="\displaystyle =S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}"></div>
 
 <!--\[S_{0}=S_{0}*\frac{(u-d)}{(u-d)}\]
 \[=S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}\]
