@@ -26,13 +26,14 @@ By making the following manipulations, we can write $S_{0}$ as,
 		&=&S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\\
 	\end{eqnarray*}"></div>-->
 
-    div class="equation" data-expr="\displaystyle 
+    
     \begin{equation}
 \begin{split}
    S_{0} &= S_{0}\frac{(u-d)}{(u-d)}\\
 		
 \end{split}
-\end{equation}"></div>
+\end{equation}
+
 <!-- &= S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}\\
 		&= S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\\
 		&= S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)} -->
