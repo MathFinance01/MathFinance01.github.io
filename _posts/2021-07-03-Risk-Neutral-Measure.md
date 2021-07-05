@@ -13,12 +13,12 @@ Different assets have different risk profiles. An investor could hold a riskier 
 
 To get an intuition of risk neutral pricing we consider the one period binomial tree model. Let $S_{0}$ be today's stock price that either moves up to $S_{0} * u$ or down to $S_{0} * d$ in the next period. Let $r$ be the risk-free rate. By imposing the condition $d<$ $u<$ $r$ we insure that there is no arbitrage in the model. 
 
-<!--By making the following manipulations, we can write $S_{0}$ as,
+By making the following manipulations, we can write $S_{0}$ as,
 
 \[S_{0}=S_{0}*\frac{(u-d)}{(u-d)}\]
 \[=S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}\]
 \[=S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\]
 \[=S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\]
--->
+
 
 {% include katex_render.html %}
