@@ -7,7 +7,7 @@ background: '/img/posts/01.jpg'
 
 {% include katex_import.html %}
 
-<!-- <div class="equation" data-expr="\displaystyle P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}}"></div> -->
+<div class="equation" data-expr="\displaystyle P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}}"></div> 
 
 Different assets have different risk profiles. An investor could hold a riskier stock while simultaneously holding a less risky bond. While pricing these securities the usual method of discounting future cashflows would cause immense pain as the discount rates would vary depending on the riskiness of the asset. How do we then simplify the pricing of various securities? This is where risk neutral pricing, one of the most important concepts in the area of derivative pricing comes into play. 
 
