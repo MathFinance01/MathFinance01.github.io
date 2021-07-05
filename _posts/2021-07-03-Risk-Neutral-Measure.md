@@ -15,10 +15,15 @@ To get an intuition of risk neutral pricing we consider the one period binomial 
 
 By making the following manipulations, we can write $S_{0}$ as,
 
-\[S_{0}=S_{0}*\frac{(u-d)}{(u-d)}\]
+<!--\[S_{0}=S_{0}*\frac{(u-d)}{(u-d)}\]
 \[=S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}\]
 \[=S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\]
-\[=S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\]
-
+\[=S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\]-->
+\begin{eqnarray*}
+		S_{0} &=& S_{0}*\frac{(u-d)}{(u-d)}\\
+		&=& S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}\\
+		&=&S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\\
+		&=&S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\\
+	\end{eqnarray*}
 
 {% include katex_render.html %}
