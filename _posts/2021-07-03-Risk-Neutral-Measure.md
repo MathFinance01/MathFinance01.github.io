@@ -19,11 +19,20 @@ By making the following manipulations, we can write $S_{0}$ as,
 \[=S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}\]
 \[=S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\]
 \[=S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\]-->
-<div class="equation" data-expr="\displaystyle \begin{eqnarray*}
+<!--<div class="equation" data-expr="\displaystyle \begin{eqnarray*}
 		S_{0} &=& S_{0}*\frac{(u-d)}{(u-d)}\\
 		&=& S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}\\
 		&=&S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\\
 		&=&S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\\
-	\end{eqnarray*}"></div>
+	\end{eqnarray*}"></div>-->
+
+    \begin{equation}
+\begin{split}
+   S_{0} &=& S_{0}*\frac{(u-d)}{(u-d)}\\
+		&=& S_{0}*\frac{e^{r}*(u-d)}{e^{r}*(u-d)}\\
+		&=&S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}\\
+		&=&S_{0}*\frac{e^{r}*(u-d)+(S_{0}ud-S_{0}ud)}{e^{r}*(u-d)}
+\end{split}
+\end{equation}
 
 {% include katex_render.html %}
