@@ -2,7 +2,7 @@
 layout: post
 title: "Risk Neutral Measure"
 subtitle: "An important measure to price financial derivatives"
-background: '/img/posts/01.jpg'
+background: '/img/posts/BlackScholesMerton/01.jpg'
 ---
 
 {% include katex_import.html %}
