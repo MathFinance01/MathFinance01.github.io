@@ -2,7 +2,7 @@
 layout: post
 title: "Asset classes and Derivatives"
 subtitle: "Most common financial derivatives"
-background: '/img/posts/01.jpg'
+background: '/img/posts/AssetsAndDerivatives/01.jpg'
 ---
 
 {% include katex_import.html %}
@@ -35,4 +35,7 @@ An easy way to understand derivatives is to look for a scenario where it will be
 
 {% include katex_render.html %}
 
-References:
+References: 
+
+Photo by Lukas from Pexels
+
