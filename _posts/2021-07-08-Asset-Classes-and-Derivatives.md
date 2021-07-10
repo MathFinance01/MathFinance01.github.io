@@ -7,7 +7,7 @@ background: '/img/posts/AssetsAndDerivatives/01.jpg'
 
 {% include katex_import.html %}
 
-
+<h4> Introduction </h4>
 If you look at any financial institution with a trading desk, you will see that the desk is further divided into 3-4 smaller trading desks. Each of these desks trade in an asset class. For example, the 4 trading desks can be FX, equities, commodities and fixed income. There can be other trading desks such as Crypto Currency trading desk. And that completely depends on the institution's interest and expertise.
 
 Why do we need to separate trading desks according to asset classes?
