@@ -18,7 +18,8 @@ The answer is easy to guess. Manageing the desk becomes a lot easier if it is di
 Although there is no hard-and-fast rule to categorize a product into any particular asset class, all the products in an asset class are expected to behave similarly. The correlation between different asset classes is expected to be close to zero but there can be positive or negative correlation between asset classes(for ex. equities and rates or equities and Gold).
 
 
-What is the need for derivatives?
+<h4>What is the need for derivatives?</h4>
+
 Derivatives "derive" their price through an underlying. It can be a stock or a bond or hundreds of other things that have value. There can even be a derivative on a derivative(for example, call option on a call option). Derivatives are financial instruments that are generally used by investors for hedging. I have used the term "generally" here since it is up to the investor if he wants to buy an instrument for hedging or for purely speculative purpose.
 
 If the investor is buying a derivative for hedging purposes, the derivative can be thought of an insurace. A quick example might help.
@@ -35,8 +36,6 @@ An easy way to understand derivatives is to look for a scenario where it will be
 
 
 {% include katex_render.html %}
-
-References: 
 
 Photo by Lukas from Pexels
 
