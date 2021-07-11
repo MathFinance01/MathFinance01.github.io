@@ -11,31 +11,20 @@ Forwards and Futures are very similar but they are not the same. Following is a 
 
 <table class="content-table">
   <thead>
-    <tr>
+    <tr style="background-color: #009879; color: #ffffff;text-align: left;font-weight: bold;">
       <th>Rank</th>
       <th>Name</th>
-      <th>Points</th>
-      <th>Team</th>
     </tr>
+
   </thead>
   <tbody>
     <tr>
       <td>1</td>
       <td>Domenic</td>
-      <td>88,110</td>
-      <td>dcode</td>
     </tr>
-    <tr class="active-row">
-      <td>2</td>
-      <td>Sally</td>
-      <td>72,400</td>
-      <td>Students</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Nick</td>
-      <td>52,300</td>
-      <td>dcode</td>
+     <tr>
+      <td>1</td>
+      <td>Domenic</td>
     </tr>
   </tbody>
 </table>
