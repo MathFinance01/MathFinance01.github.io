@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Risk Neutral Measure"
+title: "Black, Scholes and Morton model"
 subtitle: "An important measure to price financial derivatives"
 background: '/img/posts/BlackScholesMerton/01.jpg'
 ---
