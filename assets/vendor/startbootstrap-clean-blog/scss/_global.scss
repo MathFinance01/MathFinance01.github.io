@@ -108,6 +108,7 @@ img::-moz-selection {
   .content-table th,
   .content-table td {
     padding: 12px 15px;
+    text-align: center;
   }
   
   .content-table tbody tr {
@@ -119,7 +120,7 @@ img::-moz-selection {
   }
   
   .content-table tbody tr:last-of-type {
-    border-bottom: 2px solid #009879;
+    border-bottom: 2px solid #0085A1;
   }
   
   .content-table tbody tr.active-row {

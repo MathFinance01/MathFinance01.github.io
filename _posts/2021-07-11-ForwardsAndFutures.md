@@ -19,12 +19,16 @@ Forwards and Futures are very similar but they are not the same. Following is a 
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>Domenic</td>
+      <td>OTC traded</td>
+      <td>Exchange traded</td>
     </tr>
      <tr>
-      <td>1</td>
-      <td>Domenic</td>
+      <td>Settled on maturity</td>
+      <td>Daily settlement</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
