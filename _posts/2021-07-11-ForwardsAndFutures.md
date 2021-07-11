@@ -11,7 +11,7 @@ Forwards and Futures are very similar but they are not the same. Following is a 
 
 <table class="content-table">
   <thead>
-    <tr style="background-color: $primary; color: #ffffff;text-align: center;font-weight: bold;">
+    <tr style="background-color: $blue; color: #ffffff;text-align: center;font-weight: bold;">
       <th>Forwards</th>
       <th>Futures</th>
     </tr>
