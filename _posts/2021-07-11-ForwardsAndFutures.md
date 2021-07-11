@@ -10,24 +10,32 @@ In an earlier post we saw a bit of an introduction to forward/futures and a way 
 Forwards and Futures are very similar but they are not the same. Following is a table of differences between Forwards and Futures.
 
 <table class="content-table">
-    <thead>
-        <tr>
-            <th> Forwards</th>
-            <th> Futures</th>
-        </tr>
-    </thead>
-
-    <tbody>
-        <tr>
-            <td>An OTC product</td>
-            <td> Exchange traded</td>
-        </tr>
-
-        <tr>
-            <td>Single Cashflow at the end</td>
-            <td> Daily settled</td>
-        </tr>
-        
-    </tbody>
-
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Name</th>
+      <th>Points</th>
+      <th>Team</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Domenic</td>
+      <td>88,110</td>
+      <td>dcode</td>
+    </tr>
+    <tr class="active-row">
+      <td>2</td>
+      <td>Sally</td>
+      <td>72,400</td>
+      <td>Students</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Nick</td>
+      <td>52,300</td>
+      <td>dcode</td>
+    </tr>
+  </tbody>
 </table>
