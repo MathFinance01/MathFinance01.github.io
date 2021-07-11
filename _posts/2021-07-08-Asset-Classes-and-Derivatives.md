@@ -36,6 +36,7 @@ The above example shows that derivatives can be used for speculative purposes as
 
 An easy way to understand derivatives is to look for a scenario where it will be helpful(like the one in the above example). 
 
+More on forwards and futures <a href="/">here</a>
 
 {% include katex_render.html %}
 
