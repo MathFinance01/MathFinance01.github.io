@@ -19,18 +19,13 @@ Forwards and Futures are very similar but they are not the same. Following is a 
 
     <tbody>
         <tr>
-            <td>xx</td>
-            <td> xx</td>
+            <td>An OTC product</td>
+            <td> Exchange traded</td>
         </tr>
 
         <tr>
-            <td>xx</td>
-            <td> xx</td>
-        </tr>
-
-        <tr>
-            <td>xx</td>
-            <td> xx</td>
+            <td>Single Cashflow at the end</td>
+            <td> Daily settled</td>
         </tr>
         
     </tbody>
