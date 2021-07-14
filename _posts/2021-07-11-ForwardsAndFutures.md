@@ -10,13 +10,14 @@ In an earlier post we saw a bit of an introduction to forward/futures and a way 
 Forwards and Futures are very similar but they are not the same. Following is a table of differences between Forwards and Futures.
 
 <table class="content-table">
+
   <thead>
     <tr style="background-color: #0085A1 ; color: #ffffff;text-align: center;font-weight: bold;">
       <th>Forwards</th>
       <th>Futures</th>
     </tr>
-
   </thead>
+
   <tbody>
     <tr>
       <td>OTC traded</td>
@@ -26,9 +27,6 @@ Forwards and Futures are very similar but they are not the same. Following is a 
       <td>Settled on maturity</td>
       <td>Daily settlement</td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
+
 </table>
