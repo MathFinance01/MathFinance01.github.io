@@ -25,7 +25,7 @@ Forwards and Futures are very similar but they are not the same. Following is a 
     </tr>
      <tr>
       <td>Settled at maturity</td>
-      <td>Daily settled/td>
+      <td>Daily settled</td>
     </tr>
   </tbody>
 
