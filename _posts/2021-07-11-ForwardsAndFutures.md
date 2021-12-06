@@ -42,7 +42,7 @@ Is there any chance that an exchange will default? Yes, but its very negligigle.
 Liquidity: Exchange traded products offer more liquidity compared to OTC traded products. Simply put, liquidity is the ease of buying and selling a contract/product without taking a hit on price or time. For example, cash is highly liquid while an exotic interest rate derivative will be less liquid. In other words, If you want to sell/buy a contract, it will be harder to find a buyer/seller for a forward contract than for a futures contract.
 
 <h4> How do you calculate the value of a forward/future contract?</h4>
-Assuming that you are already familiar with pricing derivatives using risk binomial model, following is the strike for a forward contract.
+Assuming that you are already familiar with pricing derivatives using binomial model under risk neutral measure, following is the strike for a forward contract.
 
 
 <h4> Convexity adjustment between a forward and a future</h4>
