@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forwards and Futures"
-subtitle: "one of the most common derivatives"
+subtitle: "Two of the most common derivatives"
 background: '/img/posts/ForwardsAndFutures/01.jpg'
 ---
 <h4> Introduction </h4>
